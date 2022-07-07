@@ -1,3 +1,4 @@
 resolusi untuk test
 -konsisten menjadi programmer 
 membuat flatpoem 
+membuat barbershop
